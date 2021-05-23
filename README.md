@@ -27,68 +27,68 @@
 
 ❇️ MY CORE SKILLS ARE: 
 
-⚡ C# 🔸 .NET Core 🔸 ASP.NET MVC 🔸 Web API 🔸 WCF
-⚡ MS SQL 🔸 MySQL 🔸 MongoDB 🔸 Cosmos DB 🔸 NoSQL DB
-⚡ React.js 🔸 Typescript 🔸 Vue.js 🔸 Angular 🔸 Node.js(beginner)
-⚡ Blazor WebAssembly
-⚡ Azure 🔸 IIS 🔸 AWS 🔸 Azure Media Services 🔸 Azure Storage 🔸 Azure KeyVault 🔸 Azure HCM 🔸 Azure Frontdoor 🔸 Azure Services 🔸 Auto Deployment
-⚡ Azure Active Directory
-⚡ Hangfire 🔸 Background/Recurring Job Services 
-⚡ SignalR 🔸 Chat Implementation 🔸 WebSocket
-⚡ HTML5 🔸 CSS3 (SASS, LESS, SCSS) 🔸 Broadcast Channel  
-⚡ Bootstrap 3-4 🔸 ES 6+ 🔸 AJAX
-⚡ jQuery 🔸 JSON  
-⚡ GitHub 🔸 BitBucket 🔸 GitLab
-⚡ Google Analytics 🔸 Google Tag Manager 🔸 Facebook Pixel 🔸 Enhanced Ecommerce Flow Tracking
-⚡ WYSIWYG Editor 🔸 Markdown Editor
-⚡ SEO Friendly Website 🔸 Responsive Website 🔸 Website Score Improvement
-⚡ API 🔸 Google Maps 🔸 PayPal API 🔸 Any Payment Gateway Integration
-⚡ Zoom Integration 🔸 GoToWebinar/GoToMeeting Integration
-⚡ FedEx/USPS/UPS Integration 🔸 Shipping Service Integration 🔸 ShipStation
-⚡ CRM Development 🔸 Custom CMS Deve 🔸 Email Automation 🔸 Email Campaign
-⚡ Discourse Forum 🔸 YAF.NET 🔸 Blog Setup 🔸 WordPress site setup
-⚡ Chunk Upload/Download for large file
-⚡ HTML to PDF Services 🔸 Excel/CSV Import 🔸 Excel/CSV Export 🔸 Google Civic 🔸 Google Address/Place Services  
-⚡ USPS for (+4 Zip Code) 🔸 SmartyStreets 🔸  Address Verification  🔸 US Street Address API
-⚡ AngleSharp 🔸 HTML/SVG/XML Parser 
+⚡ C# 🔸 .NET Core 🔸 ASP.NET MVC 🔸 Web API 🔸 WCF <br/>
+⚡ MS SQL 🔸 MySQL 🔸 MongoDB 🔸 Cosmos DB 🔸 NoSQL DB<br/>
+⚡ React.js 🔸 Typescript 🔸 Vue.js 🔸 Angular 🔸 Node.js(beginner)<br/>
+⚡ Blazor WebAssembly<br/>
+⚡ Azure 🔸 IIS 🔸 AWS 🔸 Azure Media Services 🔸 Azure Storage 🔸 Azure KeyVault 🔸 Azure HCM 🔸 Azure Frontdoor 🔸 Azure Services 🔸 Auto Deployment<br/>
+⚡ Azure Active Directory<br/>
+⚡ Hangfire 🔸 Background/Recurring Job Services <br/>
+⚡ SignalR 🔸 Chat Implementation 🔸 WebSocket<br/>
+⚡ HTML5 🔸 CSS3 (SASS, LESS, SCSS) 🔸 Broadcast Channel  <br/>
+⚡ Bootstrap 3-4 🔸 ES 6+ 🔸 AJAX<br/>
+⚡ jQuery 🔸 JSON  <br/>
+⚡ GitHub 🔸 BitBucket 🔸 GitLab<br/>
+⚡ Google Analytics 🔸 Google Tag Manager 🔸 Facebook Pixel 🔸 Enhanced Ecommerce Flow Tracking<br/>
+⚡ WYSIWYG Editor 🔸 Markdown Editor<br/>
+⚡ SEO Friendly Website 🔸 Responsive Website 🔸 Website Score Improvement<br/>
+⚡ API 🔸 Google Maps 🔸 PayPal API 🔸 Any Payment Gateway Integration<br/>
+⚡ Zoom Integration 🔸 GoToWebinar/GoToMeeting Integration<br/>
+⚡ FedEx/USPS/UPS Integration 🔸 Shipping Service Integration 🔸 ShipStation<br/>
+⚡ CRM Development 🔸 Custom CMS Deve 🔸 Email Automation 🔸 Email Campaign<br/>
+⚡ Discourse Forum 🔸 YAF.NET 🔸 Blog Setup 🔸 WordPress site setup<br/>
+⚡ Chunk Upload/Download for large file<br/>
+⚡ HTML to PDF Services 🔸 Excel/CSV Import 🔸 Excel/CSV Export 🔸 Google Civic 🔸 Google Address/Place Services  <br/>
+⚡ USPS for (+4 Zip Code) 🔸 SmartyStreets 🔸  Address Verification  🔸 US Street Address API<br/>
+⚡ AngleSharp 🔸 HTML/SVG/XML Parser <br/>
 
-✅ My expertise includes:
-◆ Software Development & Maintenance services
-◆ API Integration Social media (Facebook, LinkedIn, Twitter), Google APIs, Google Maps
-◆ ASP.NET website performance optimization
-◆ ASP.NET website deployment
-◆ The Second Payments Services Directive (PSD2), Strong Customer Authentication (SCA), 3-D Secure (3DS) Expert
-◆ ERP Software development and maintenance
-◆ CI/CD Integration
-◆ GitHub Actions
-◆ Dropbox, Azure Blob, AWS S3 Storage Large file upload
+✅ My expertise includes:<br/>
+◆ Software Development & Maintenance services<br/>
+◆ API Integration Social media (Facebook, LinkedIn, Twitter), Google APIs, Google Maps<br/>
+◆ ASP.NET website performance optimization<br/>
+◆ ASP.NET website deployment<br/>
+◆ The Second Payments Services Directive (PSD2), Strong Customer Authentication (SCA), 3-D Secure (3DS) Expert<br/>
+◆ ERP Software development and maintenance<br/>
+◆ CI/CD Integration<br/>
+◆ GitHub Actions<br/>
+◆ Dropbox, Azure Blob, AWS S3 Storage Large file upload<br/>
 
-❇️Front-end/JavaScript Frameworks:
-✔️ ReactJS, Redux,
-✔️ VueJS,
-✔️ AngularJS,
-✔️ TypeScript,
-✔️ ES6+
-✔️ jQuery
-✔️ Knockout.js,
-✔️ Gatsby
-✔️ Express.js
+❇️Front-end/JavaScript Frameworks:<br/>
+✔️ ReactJS, Redux,<br/>
+✔️ VueJS,<br/>
+✔️ AngularJS,<br/>
+✔️ TypeScript,<br/>
+✔️ ES6+<br/>
+✔️ jQuery<br/>
+✔️ Knockout.js,<br/>
+✔️ Gatsby<br/>
+✔️ Express.js<br/>
 
-✅ Payment Method Integration (Including Recurring Payment/Vaulting):
-◆ PayPal Pro / PayPal Advanced / Payflow Pro	
-◆ Braintree 
-◆ Authorize.Net
-◆ First Data
-◆ RazorPay
-◆ Stripe
-◆ Amazon Payments
-◆ SecurePay
-◆ Square Payments
-◆ AffiniPay
-◆ PayUBiz
-◆ PayUmoney / PayUBiz
+✅ Payment Method Integration (Including Recurring Payment/Vaulting):<br/>
+◆ PayPal Pro / PayPal Advanced / Payflow Pro	<br/>
+◆ Braintree <br/>
+◆ Authorize.Net<br/>
+◆ First Data<br/>
+◆ RazorPay<br/>
+◆ Stripe<br/>
+◆ Amazon Payments<br/>
+◆ SecurePay<br/>
+◆ Square Payments<br/>
+◆ AffiniPay<br/>
+◆ PayUBiz<br/>
+◆ PayUmoney / PayUBiz<br/>
 
-🔸 Happy to discuss your projects and building a professional relationship together. Let's talk about your idea, and that could lead to something big!
+🔸 Happy to discuss your projects and building a professional relationship together. Let's talk about your idea, and that could lead to something big!<br/>
 
 👌 Let your Project be a Successful One! [Contact me](mailto:rohit.patel@rntechnolab.com) 😉
                                                                                             
