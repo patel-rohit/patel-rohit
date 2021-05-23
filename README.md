@@ -23,7 +23,7 @@
 </p>
 
  
-                                                                                             🔸 I am a proficient full-stack developer who has all "the keys to the house." I can Build, Convert, Custom, or Develop your Website. My skills provide unparalleled freedom to work on front-end and back-end development simultaneously.
+🔸 I am a proficient full-stack developer who has all "the keys to the house." I can Build, Convert, Custom, or Develop your Website. My skills provide unparalleled freedom to work on front-end and back-end development simultaneously.
 
 ❇️ MY CORE SKILLS ARE: 
 
