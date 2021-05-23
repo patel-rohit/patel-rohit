@@ -110,5 +110,7 @@
 
 [twitter]: https://twitter.com/rohit_patel2
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/patel-rohit/  
+[linkedin]: https://www.linkedin.com/in/patel-rohit/
+[website]: https://rohit-patel.github.io/
+                                                                                                                                                    
  
