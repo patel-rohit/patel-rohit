@@ -85,10 +85,7 @@
 ◆ AffiniPay<br/>
 ◆ PayUBiz<br/>
 ◆ PayUmoney / PayUBiz<br/>
-
-🔸 Happy to discuss your projects and building a professional relationship together. Let's talk about your idea, and that could lead to something big!<br/>
-
-👌 Let your Project be a Successful One! [Contact me](mailto:rohit.patel@rntechnolab.com) 😉
+ 
                                                                                             
                                                                                              
  
