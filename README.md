@@ -1,5 +1,3 @@
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 ![alt text](https://github.com/patel-rohit/patel-rohit/blob/main/cover.jpg)
 
