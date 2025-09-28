@@ -1,6 +1,4 @@
 
-![alt text](https://github.com/patel-rohit/patel-rohit/blob/main/cover.jpg)
-
 ### My Tech Toolbox 🧰
 
 <p align="left">
